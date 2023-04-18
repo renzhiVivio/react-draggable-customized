@@ -264,7 +264,6 @@ function getTranslation(_ref2, positionOffset
     translation += "  rotate(".concat(rotation, "deg)");
   }
 
-  console.log(translation, positionOffset, rotation, "react-draggable-customized666");
   return translation;
 }
 
